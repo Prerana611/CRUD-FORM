@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstname": "Mira",
+      "lastname": "patel",
+      "email": "mira@gmail.com",
+      "dob": "2023-03-05T08:00:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "sdw",
+      "experience": "2",
+      "package": "30",
+      "id": 2
+    },
+    {
+      "firstname": "hetvi",
+      "lastname": "ravariya",
+      "email": "hetvi@mail.com",
+      "dob": "2016-01-04T08:00:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "google",
+      "experience": 4,
+      "package": 15,
+      "id": 3
+    },
+    {
+      "firstname": "ram",
+      "lastname": "patel",
+      "email": "hhud",
+      "dob": "2023-03-14T07:00:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "wdwq",
+      "experience": 2,
+      "package": 20,
+      "id": 4
+    },
+    {
+      "firstname": "krishna",
+      "lastname": "paghdhar",
+      "email": "radha@gmal.com",
+      "dob": "2023-03-05T08:00:00.000Z",
+      "gender": "male",
+      "education": "Matric",
+      "company": "abdhbfd",
+      "experience": 12,
+      "package": 22,
+      "id": 5
+    },
+    {
+      "firstname": "edwe",
+      "lastname": "eqwf",
+      "email": "",
+      "dob": "2023-02-01T08:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "esac",
+      "experience": 0,
+      "package": 1,
+      "id": 6
+    }
+  ]
+}
